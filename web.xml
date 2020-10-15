@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+        <servlet-name>Home</servlet-name>
+        <servlet-class>br.com.darkstar.Project1</servlet-class>
+
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Home</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+</web-app>
